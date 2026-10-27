@@ -1,6 +1,6 @@
 # Bell-LaPadula (BLP) Access Control Visualizer
 
-ITIS 3200 - Lab 5 (Step 1)
+ITIS 6200 - Lab 5 (Step 1)
 
 ## Overview
 This program implements and visualizes the **Bell-LaPadula (BLP)** multi-level security access control model. The model enforces two foundational confidentiality properties:
